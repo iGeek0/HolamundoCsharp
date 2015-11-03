@@ -21,6 +21,7 @@ namespace HolaGit
         {
             //BOTON ok
             MessageBox.Show(Saludar(textBox1.Text));
+            //agregamos picturebox
             
         }
 
