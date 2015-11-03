@@ -10,3 +10,9 @@ C:\Users\JesusC\Desktop\HolamundoCsharp\HolaGit\HolaGit\obj\Debug\HolaGit.pdb
 C:\Users\lab-prog27\Desktop\HolamundoCsharp\HolaGit\HolaGit\bin\Debug\HolaGit.exe.config
 C:\Users\lab-prog27\Desktop\HolamundoCsharp\HolaGit\HolaGit\obj\Debug\HolaGit.exe
 C:\Users\lab-prog27\Desktop\HolamundoCsharp\HolaGit\HolaGit\obj\Debug\HolaGit.pdb
+C:\Users\lab-prog27\Desktop\HolamundoCsharp\HolaGit\HolaGit\bin\Debug\HolaGit.exe
+C:\Users\lab-prog27\Desktop\HolamundoCsharp\HolaGit\HolaGit\bin\Debug\HolaGit.pdb
+C:\Users\lab-prog27\Desktop\HolamundoCsharp\HolaGit\HolaGit\obj\Debug\HolaGit.csprojResolveAssemblyReference.cache
+C:\Users\lab-prog27\Desktop\HolamundoCsharp\HolaGit\HolaGit\obj\Debug\HolaGit.Form1.resources
+C:\Users\lab-prog27\Desktop\HolamundoCsharp\HolaGit\HolaGit\obj\Debug\HolaGit.Properties.Resources.resources
+C:\Users\lab-prog27\Desktop\HolamundoCsharp\HolaGit\HolaGit\obj\Debug\HolaGit.csproj.GenerateResource.Cache
