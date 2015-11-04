@@ -7,3 +7,6 @@ C:\Users\JesusC\Desktop\HolamundoCsharp\HolaGit\HolaGit\obj\Debug\HolaGit.Proper
 C:\Users\JesusC\Desktop\HolamundoCsharp\HolaGit\HolaGit\obj\Debug\HolaGit.csproj.GenerateResource.Cache
 C:\Users\JesusC\Desktop\HolamundoCsharp\HolaGit\HolaGit\obj\Debug\HolaGit.exe
 C:\Users\JesusC\Desktop\HolamundoCsharp\HolaGit\HolaGit\obj\Debug\HolaGit.pdb
+C:\Users\lab-prog12\Desktop\HolamundoCsharp\HolaGit\HolaGit\bin\Debug\HolaGit.exe.config
+C:\Users\lab-prog12\Desktop\HolamundoCsharp\HolaGit\HolaGit\obj\Debug\HolaGit.exe
+C:\Users\lab-prog12\Desktop\HolamundoCsharp\HolaGit\HolaGit\obj\Debug\HolaGit.pdb
